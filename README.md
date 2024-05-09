@@ -86,3 +86,115 @@ While we’ve gone over a number of the most visible uses of data in organizatio
 • Problem-solving:  Acknowledging the close association with decision-making, it’s worth calling out problem-solving as a distinctive use of data. Data plays a role in how a problem is defined, determining what solutions are available, evaluating which solution to use, and measuring the success or failure of the solution that is chosen and applied.
 • Data reuse:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different team at another time - assuming they have permission, including access and legal rights (notable controls within data governance). For example, the sales team in an organization will collect your name and address in order to fulfill an order. Later, that same data set may be used by the marketing team to create awareness about other products and services. These are two different teams with different goals using the same data. Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules. (Note: High-value shared data sets are called master data, and in data governance, they are subject to master data management.)
 ![image](https://github.com/NdiiLe/Data-Governance-week-2/assets/131252498/d7c44019-ec0d-474e-b53b-b9a30f990c63)
+
+
+
+Examining the Broader Value of Data
+
+Thursday, 09 May 2024
+14:56
+
+	• Data democratization is the ability for team members to access data without relying on specialists.
+	• As organizations grow, data sets become siloed, hindering business efficiencies and increasing inconsistencies.
+	• Data governance helps eliminate these silos and makes data discoverable whenever it adds value.
+	• Data catalogs are essential for data governance.
+	• However, most organizations lack a universal search engine to locate and serve up data.
+	• Business leaders spend 70% of their time trying to find data and 30% analyzing it.
+	• Accessing data from the internet is often easier than using internal search systems.
+	• Knowledge of available data is essential for better informed decision-making, compliance, lower costs, improved data analytics, higher-performing systems, more efficient operations, and reducing data inconsistencies.
+	• The vendor community can help build internal search capabilities and with investment and effort, finding data and information in the enterprise is possible.
+
+Data Catalogs:
+
+	• To help your organization find data, consider creating an enterprise search engine or an enterprise data catalog.
+	• These tools offer advantages such as finding useful data, understanding data, and making data more useful.
+	• They help users identify and locate relevant data, answer questions about data purpose and usage, and create visibility and access to information.
+	• When used correctly, a data catalog provides an enterprise view of all data, enabling insights and enhancing data governance.
+	• A data catalog is more than just a list of data sets; it contains metadata about the data, which can be curated manually or automated processes, with AI playing a growing role in this process.
+	• A data catalog can contain technical, business, and operational metadata.
+	• Technical metadata includes information about the design of a data set, business metadata includes organizational data, and operational metadata includes data access, users, and backups.
+	• A well-managed data catalog can help organizations identify data gaps, reduce duplication, increase operational efficiencies, understand data quality, manage compliance, and enjoy cost savings from improved operations.
+
+Figure 10 illustrates the basic building blocks of a data catalog.
+
+
+
+Case Study: Unlocking Data Silos with a Data Catalog:
+Data Analytics:
+
+Data can hold significant business value, but it requires a specialized approach to unlock its potential.
+Data analytics involves collecting, organizing, storing, and analyzing data to extract valuable insights.
+It can be used for decision-making, marketing campaigns, understanding competition, designing innovative products, improving customer service, and improving operations.
+Data analytics has grown significantly in recent years due to the rise of big data, data science as a business competency, and the introduction of AI tools.
+Organizations must be prepared to govern their data analytics capabilities, including policies, experienced talent, and a suite of modern software tools, to unlock the power of data and discover valuable insights.
+
+Data Monetization:
+
+Data valuation is a crucial process for organizations to accurately capture their financials and understand the importance and role of each asset.
+It helps organizations appreciate the value of specific data sets, which can provide opportunities for business growth and operational excellence.
+Data monetization, where data provides an economic benefit, is a more advanced approach.
+Data valuation is generally recommended in larger enterprises but is also required for advanced data monetization such as selling or licensing data.
+There are various methods to determine data valuation, including cost value, market value, economic value, and with-and-without methods.
+Each method has its limitations and is subjective, but they all contribute to the overall value of data.
+To optimize data monetization, organizations must be intentional in managing data assets, have a plan for utilization, and measure return on investment.
+For optimal data monetization, organizations must manage high-value data with the same level of rigor as their most important tangible assets.
+
+Data-Driven Decision Making:
+
+Data-driven decision-making (DDDM) is the process of using data to drive business decisions.
+While basic DDDM can be practiced by most team members, organizations need a data culture and specific skills and tools.
+Leadership support, data appreciation and analytics, and data-security and data-use policies are essential for achieving high performance.
+Executives who demonstrate DDDM serve as role models for the entire enterprise.
+Ensuring the right people can use the right data at the right time is crucial for data governance.
+The six-step process to data-driven decision-making involves defining objectives, identifying data, preparing the data, analyzing the data, determining the findings, and taking action.
+Understanding the objectives and their alignment with organizational goals helps scope work and define metrics.
+Engaging with stakeholders and consulting with data stewards and owners can help gather necessary data.
+Preparing the data involves using a useful analytics tool, such as an ETL architecture, and presenting relevant representations like graphs and charts.
+Identifying the findings involves asking questions about the data, which can be aided by training or experience.
+Taking action is the final step, as data-driven decision-making is all about the decisions that result in actions.
+It is common to iterate through some steps to get to a good place for analysis.
+Data-driven decision-making can be a game-changer for any organization, as it leads to better decisions, increased team empowerment, and greater collaboration between business units.
+
+Developing a Data Strategy for Improved Results:
+
+The course emphasizes the importance of deliberate actions to maximize data's potential.
+However, many organizations take a passive approach to data management, often reactive and reactive.
+Reasons for not taking a proactive approach include cost, complexity, and lack of understanding of data management and governance.
+To effectively manage data as a high-value asset, a data strategy is essential, as it helps businesses recognize its potential.
+
+Why does every organization need a data strategy?
+
+A strategy is a set of guiding principles that inform decision-making to achieve a desired outcome.
+It is crucial for businesses to have clear visions and missions, as without a current strategy, conflicts can arise.
+Many organizations lack a well-communicated strategy, which can be difficult to create and execute.
+However, organizations with a clear strategy typically execute with efficiency, have higher profits, grow larger, and more frequently hit their success targets.
+
+Creating a Data Stratey:
+
+Data maturity refers to an organization's existing data usage and quality, with organizations prioritizing it as a strategic asset.
+Prioritization can be categorized into defense and offense, with defense focusing on data security and quality, and offense using data for insight management and market-facing initiatives.
+Depending on the industry and size, organizations should follow a suitable data strategy, ensuring a balance between complexity for small businesses and sophistication for large, complex, and highly regulated organizations.
+A data strategy should address five areas of data requirements: identifying, storing, provision, process, and governing.
+It should align with the business strategy, ensuring it supports and advances the organization's larger goals.
+Identifying roles and responsibilities is crucial, as it requires specific actions from team members.
+Data strategy should be documented, focusing on data consumers, data scientists, analysts, data stewards, and management.
+Data architecture refers to the processes, systems, and applications that support working with data, including storage needs, analysis tools, and data catalogs.
+A data strategy should support scalability and flexibility as needs change.
+Data management encompasses activities that manage the full lifecycle of data, including data security, privacy, quality, metadata, integration, master data management, and analytics.
+Data architecture is often the driver of choosing and designing data management processes and systems.
+Data governance sets rules for data use, while data management ensures these rules are followed, such as confidentiality classifications.
+Data management involves processes, tools, and staff to enforce these rules.
+
+
+Figure 11: The four components of a data strategy (Source:  John Wiley & Sons)
+
+Managing and Monitoring Your Data Strategy:
+
+Successfully designing, creating, and implementing a data strategy in an organization can significantly enhance its ability to leverage data and increase performance.
+However, success depends on various factors and requires buy-in, a roadmap, and execution.
+Data governance and management functions must also be in place.
+All strategies must be open to periodic modification due to evolving customer expectations, organizational needs, and the economy.
+Timely strategic corrections reflect good leadership.
+It is essential to regularly review and modify data strategies, including data strategy, to ensure they align with the organization's needs and goals.
+This is a core characteristic of an agile organization in the 21st century.
+![Uploading image.png…]()
