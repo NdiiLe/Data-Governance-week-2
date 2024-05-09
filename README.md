@@ -34,3 +34,27 @@ Without even creating a single unit of raw data, there’s a universe of existin
 Consumer search engines like Google and Bing have changed how people make decisions, making them more informed. This has impacted the healthcare industry, with patients researching their symptoms and causes. While it has reduced unnecessary clinic visits, incorrect information can be a challenge for doctors. Within organizations, access to data has led to quicker and better decisions, allowing executives to understand their strengths and weaknesses in real-time, rather than waiting until the end of the fiscal quarter.
 
 While there’s little surprise that data-driven decision-making is a fundamental business competency, it all hinges on decision-makers getting access to quality data at the right time. Abundant and out-of-date data are not synonymous with data value. Bad data may be worse than no data. Bad data processed into information and then used as the basis for decisions will result in failure. The outcome of decisions based on bad data could range from a minor mistake to job termination right up to the closing of the business.![image](https://github.com/NdiiLe/Data-Governance-week-2/assets/131252498/cc681758-536d-4de3-82c8-a75640fb3f2c)
+
+
+MEASURING
+
+Organizations constantly measure data to build a business picture. The phrase "what gets measured gets managed" is relevant, although not everything can be easily measured. Leaders need timely information derived from data, emphasizing the importance of measurement in decision-making processes within organizations.
+
+Data measurements can be quantitative or qualitative. Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+
+One way to differentiate between quantitative and qualitative data is by looking at how someone describes a journey in a plane. One person may focus on specific measurements like altitude and speed, while another may focus on subjective experiences like comfort and food quality. Both types of data can be meaningful depending on the audience.
+
+The type of information desired directly correlates to the measurement approach. This is going to inform your choices of at least what, when, where, and how data is captured. A general rule is only to capture and measure what matters. Some may argue that capturing data now to measure later has value even if there isn’t a good case yet. I can buy that but be careful with your limited resources and the potential costs.
+
+William Bruce Cameron's quote suggests that not everything valuable can be measured, and not everything measurable is valuable. It emphasizes the importance of recognizing the limitations of data analysis.
+
+MONITORING
+
+Monitoring is a continuous process of collecting and evaluating the performance of a project, process, or system. Results are compared against existing values or desired targets to ensure expectations are being met. This ongoing monitoring helps ensure continuity, stability, and reliability in various activities and operations.
+
+Involved in monitoring is the data produced by the thing being evaluated. It’s also the data that is produced as a product of monitoring. For example, the deviation from the expected result.
+
+Monitoring involves converting data into insights through reports, real-time systems, and software dashboards. It helps in making decisions by providing information on various aspects like power levels in devices, employee activities, and predictive maintenance. Data measurement and monitoring are interconnected, with data serving as a binding element for business functions. Different teams within an organization handle data measurement, monitoring, and actions based on the data. Data monitoring also involves assessing the quality of data to ensure it is suitable for its intended purpose. This process requires establishing metrics for data quality, such as completeness and accuracy, and continuously evaluating and improving data quality over time. Overall, data monitoring is crucial for effective decision-making and ensuring the reliability of data-driven processes within an organization.
+
+By continuously monitoring the quality of the data in your organization, opportunities and issues may be revealed in a timely manner. Then, if deemed appropriate, actions can be prioritized.
+![image](https://github.com/NdiiLe/Data-Governance-week-2/assets/131252498/2ec72b57-4f7f-437f-ae54-987918fb7cd8)
