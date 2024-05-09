@@ -25,3 +25,12 @@ Every organization, whether explicitly stated or not, has a strategy in place. T
 
 The construction of a plan should not rely solely on data and information but also incorporate the perspectives and beliefs of experienced individuals. The right balance between data and non-data sources is crucial for successful outcomes. Strategy development should be considered an ongoing process, with periodic revisions guided by new data and insights. In the modern era, organizations must be able to quickly adapt to changing environmental conditions, with data playing a key role in their response system.
 ![image](https://github.com/NdiiLe/Data-Governance-week-2/assets/131252498/17998a7e-1064-4bc6-9241-3799446d5304)
+
+
+DECISION MAKING
+
+Without even creating a single unit of raw data, there’s a universe of existing data and information at our fingertips. In addition, increasing numbers of easy-to-use analysis capabilities and tools are democratizing access to insight.
+
+Consumer search engines like Google and Bing have changed how people make decisions, making them more informed. This has impacted the healthcare industry, with patients researching their symptoms and causes. While it has reduced unnecessary clinic visits, incorrect information can be a challenge for doctors. Within organizations, access to data has led to quicker and better decisions, allowing executives to understand their strengths and weaknesses in real-time, rather than waiting until the end of the fiscal quarter.
+
+While there’s little surprise that data-driven decision-making is a fundamental business competency, it all hinges on decision-makers getting access to quality data at the right time. Abundant and out-of-date data are not synonymous with data value. Bad data may be worse than no data. Bad data processed into information and then used as the basis for decisions will result in failure. The outcome of decisions based on bad data could range from a minor mistake to job termination right up to the closing of the business.![image](https://github.com/NdiiLe/Data-Governance-week-2/assets/131252498/cc681758-536d-4de3-82c8-a75640fb3f2c)
